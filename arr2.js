@@ -1,0 +1,2 @@
+var func1 =(num1,num2) => num1 + num2;
+console.log(func1(4,5));
