@@ -1,7 +1,8 @@
 var myVar =100;
-var myFavoriteColor='red';
-var iHaveSuperPower =true;
-var time =5.15;
+var myFavoriteColor ='red';
+var iHaveSuperPower = true;
+var time = 5.15;
+
 console.log (myVar);
 console.log (myFavoriteColor);
 console.log (time);

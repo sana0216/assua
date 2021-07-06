@@ -2,7 +2,7 @@
 var myCar = {
       name:"audi",
       model:2019,
-      color:"white" ,
+      color:"white",
       speed:0,
       move:function () {
           this.speed++;

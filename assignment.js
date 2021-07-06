@@ -1,11 +1,11 @@
-var x = 6;
+var x = 5;
 var y = 10;
 
 x + y ;
-console.log(x);
+console.log( x);
 
 x = 5;
-x *=  y;
+x *= y;
 console.log(x);
 
 x = 5;
@@ -13,7 +13,7 @@ x /= y;
 console.log(x);
 
 x = 5;
-x %= y;
+x %= y ;
 console.log(x);
 
 x = 5;
