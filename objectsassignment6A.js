@@ -1,4 +1,4 @@
-function Comlex(real){
+function Complex(real){
     this.real = real;
 }
 Complex.one = new Complex(1,8);
